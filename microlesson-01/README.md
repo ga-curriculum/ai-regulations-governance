@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[AI-Regulations-Governance]</span>
+  <span class="headline">[AI-Regulations-&-Governance]</span>
   <span class="subhead"></span>
 </h1>
 
