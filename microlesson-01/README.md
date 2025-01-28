@@ -2,10 +2,9 @@
   <span class="headline">[AI Regulations & Governance]</span>
   <span class="subhead"></span>
 </h1>
+k
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
-
-# Table of Contents
+## Table of Contents
 
 ## [I. Introduction to AI Regulations and Governance](#introduction-to-ai-regulations-and-governance)
    - [A. AI Governance](#ai-governance)
