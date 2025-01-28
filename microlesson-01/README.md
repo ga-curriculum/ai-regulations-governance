@@ -158,7 +158,7 @@ The ethical implications of AI are multifaceted and crucial to its development a
 
 Ethical AI is critical for ensuring that technological advancements do not undermine human rights or societal well-being. The development of AI systems must incorporate ethical considerations from the outset to prevent unintended harm.
 
-## [II. Overview of Global AI Regulatory Landscape](#overview-of-global-ai-regulatory-landscape)
+## [II. Overview of Global AI Regulatory Landscape]
 
 ### Overview of Global AI Regulatory Landscape
 
