@@ -636,7 +636,7 @@ Bias in AI systems poses significant ethical challenges:
 - 🚀 **Mitigating Bias**: Strategies such as diversifying datasets, applying fairness metrics, and ongoing monitoring of AI outcomes can help reduce bias. Additionally, involving diverse teams in AI development can provide multiple perspectives and enhance system fairness.  
 
 
-- **Discussion**: The deployment of autonomous vehicles, such as those developed by **Waymo**, presents significant ethical challenges. One of the primary ethical concerns is how the vehicle’s AI system makes decisions in emergency situations. For example, if an autonomous vehicle is faced with a situation where it has to decide between swerving to avoid hitting a pedestrian but endangering its passengers or maintaining its course, the decision-making algorithm must follow ethical guidelines that prioritize safety and minimize harm. These ethical dilemmas highlight the need for clear ethical frameworks that guide the development of autonomous AI systems to ensure responsible decision-making.
+**Discussion**: The deployment of autonomous vehicles, such as those developed by **Waymo**, presents significant ethical challenges. One of the primary ethical concerns is how the vehicle’s AI system makes decisions in emergency situations. For example, if an autonomous vehicle is faced with a situation where it has to decide between swerving to avoid hitting a pedestrian but endangering its passengers or maintaining its course, the decision-making algorithm must follow ethical guidelines that prioritize safety and minimize harm. These ethical dilemmas highlight the need for clear ethical frameworks that guide the development of autonomous AI systems to ensure responsible decision-making.
 
 
 ---
