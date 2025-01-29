@@ -2,7 +2,7 @@
   <span class="headline">[AI Regulations & Governance]</span>
   <span class="subhead"></span>
 </h1>
-k
+
 
 ## Table of Contents
 
