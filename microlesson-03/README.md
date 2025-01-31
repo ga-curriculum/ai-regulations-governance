@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">AI Regulations & Governance</span>
-  <span class="subhead">Setup</span>
+  <span class="subhead">Core Principles of AI Ethics</span>
 </h1>
 
 ### III. Core Principles of AI Ethics
