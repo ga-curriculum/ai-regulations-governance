@@ -1,7 +1,7 @@
 
 <h1>
   <span class="headline">AI Regulations & Governance</span>
-  <span class="subhead">Setup</span>
+  <span class="subhead">Ethical Challenges in AI Deployment</span>
 </h1>
 
 ## VI. Ethical Challenges in AI Deployment
