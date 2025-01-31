@@ -1,9 +1,9 @@
 <h1>
   <span class="headline">AI Regulations & Governance</span>
-  <span class="subhead">Setup</span>
+  <span class="subhead">Global AI Regulatory Landscape</span>
 </h1>
 
-## [II. Overview of Global AI Regulatory Landscape]
+## II. Overview of Global AI Regulatory Landscape
 
 ### Overview of Global AI Regulatory Landscape
 
