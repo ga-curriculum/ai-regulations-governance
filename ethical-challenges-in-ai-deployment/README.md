@@ -4,12 +4,12 @@
   <span class="subhead">Ethical Challenges in AI Deployment</span>
 </h1>
 
-## VI. Ethical Challenges in AI Deployment
+**Learning Outcome:** By the end of this lesson, you'll be able to describe critical ethical concerns around AI technology such as biased decision-making, risks of autonomous systems, AI surveillance, and privacy violations.
 
+## An Introduction to Ethical Challenges in AI Deployment
 Ethical  challenges include issues related to decision-making, autonomy, surveillance, privacy, and bias, all of which can have profound implications for individuals and society at large. 
 
-### A. AI in Decision-Making: Risks and Concerns
-
+## **AI in Decision-Making:** Risks and Concerns
 AI is used in decision-making across sectors like finance, healthcare, and law enforcement, but several risks arise:
 
 - 🏛 **Lack of Transparency**: AI models, especially deep learning, are often opaque, making it hard to understand decision-making processes, raising issues of accountability and trust.  
@@ -19,13 +19,10 @@ AI is used in decision-making across sectors like finance, healthcare, and law e
 - 🔏 **Ethical Concerns**: AI decisions may infringe on privacy and human rights, creating ethical dilemmas in sensitive areas like criminal justice and credit scoring.  
 - 🧠 **Lack of Human Judgment**: AI lacks empathy and moral reasoning, making it unsuitable for nuanced decisions that require understanding individual contexts.  
 
-
 **Conclusion**: While AI offers benefits in decision-making, ethical, transparent, and accountable use is essential to prevent harm and ensure fairness.
 
----
 
-### B. Autonomous Systems: Ethical Considerations
-
+## **Autonomous Systems:** Ethical Considerations
 Autonomous systems, such as self-driving cars, drones, and robots, raise several ethical concerns:
 
 - ⚠️ **Safety and Reliability**: Ensuring autonomous systems are fail-safe and minimize harm in unpredictable scenarios, like accidents or malfunctions.  
@@ -33,11 +30,9 @@ Autonomous systems, such as self-driving cars, drones, and robots, raise several
 - 👨‍⚕️ **Human Interaction**: The role of humans in decision-making and control. The challenge is to ensure that these systems don’t remove human agency, especially in high-risk areas like healthcare or defense.  
 - ⚖️ **Bias and Fairness**: Autonomous systems must be designed to avoid biased decision-making, such as racial or gender bias in facial recognition or hiring algorithms.  
 - 🤖 **Ethical Decision-Making**: Autonomous systems, especially in life-critical situations like autonomous vehicles, need to make ethical decisions (e.g., whether to harm one person to save many). Designing such ethical frameworks is complex and controversial.  
-- 🏭 **Job Displacement**: As autonomous systems take over tasks in sectors like transportation, logistics, and manufacturing, they pose a risk to employment, leading to potential societal and economic consequences.  
+- 🏭 **Job Displacement**: As autonomous systems take over tasks in sectors like transportation, logistics, and manufacturing, they pose a risk to employment, leading to potential societal and economic consequences.
 
----
-
-### C. AI in Surveillance and Privacy Issues
+## **AI in Surveillance and Privacy Issues**
 
 AI-powered surveillance technologies raise critical concerns regarding privacy and individual freedoms:
 
@@ -49,10 +44,7 @@ AI-powered surveillance technologies raise critical concerns regarding privacy a
 - 📜 **Ethical Use of Data**: The collection and use of personal data for surveillance must adhere to ethical guidelines, ensuring that individuals' rights are not infringed upon in the name of security or convenience.  
 
 
----
-
-### D. The Role of Bias in AI Systems
-
+## **The Role of Bias in AI Systems**
 Bias in AI systems poses significant ethical challenges:
 
 - 📊 **Data Bias**: AI models are trained on data, which may reflect existing biases in society. If the data is skewed or unrepresentative, the AI system may inherit and perpetuate these biases, resulting in unfair or discriminatory outcomes.  
@@ -62,5 +54,14 @@ Bias in AI systems poses significant ethical challenges:
 - ⚖️ **Fairness and Accountability**: Ensuring fairness in AI systems is crucial, as biased outcomes can undermine public trust. Companies and governments need to implement mechanisms for accountability, transparency, and regular audits of AI systems to detect and correct biases.  
 - 🚀 **Mitigating Bias**: Strategies such as diversifying datasets, applying fairness metrics, and ongoing monitoring of AI outcomes can help reduce bias. Additionally, involving diverse teams in AI development can provide multiple perspectives and enhance system fairness.  
 
+## 🗣️ **Discussion Activity**: Ethical Dilemmas in Autonomous Vehicles
+### **Scenario**  
+An **autonomous vehicle** must decide between **swerving to avoid a pedestrian but endangering passengers** or maintaining its course.  
 
-**Discussion**: The deployment of autonomous vehicles, such as those developed by **Waymo**, presents significant ethical challenges. One of the primary ethical concerns is how the vehicle’s AI system makes decisions in emergency situations. For example, if an autonomous vehicle is faced with a situation where it has to decide between swerving to avoid hitting a pedestrian but endangering its passengers or maintaining its course, the decision-making algorithm must follow ethical guidelines that prioritize safety and minimize harm. These ethical dilemmas highlight the need for clear ethical frameworks that guide the development of autonomous AI systems to ensure responsible decision-making.
+### **Guiding Questions**  
+1. How should AI-powered **self-driving cars** make ethical decisions?  
+2. Should governments set universal ethical guidelines for AI decision-making in autonomous vehicles?  
+3. If an accident occurs, **who should be held responsible**—the AI developer, car manufacturer, or passenger?  
+4. What safeguards should companies implement before deploying autonomous vehicles? 
+
+---
