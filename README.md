@@ -21,7 +21,7 @@ By the end of the course you will be able to:
 | ------ |:------------------:| ------ |
 | [Introduction to AI Regulations and Governance](./introduction-to-ai-regulations-and-governance/README.md) | 10 min | Explain why AI governance is crucial for ensuring ethical, fair, and transparent AI systems that protect individual rights and societal interests.|
 | [Global AI Regulatory Landscape](./global-ai-regulatory-landscape/README.md) | 10 min |Explain how different regions, including the EU, U.S., UK, China, and India, regulate AI. |
-| [Core Principles of AI Ethics](./microlesson-03/README.md) | 10 min |Describe key ethical principles in AI, such as fairness, transparency, accountability, privacy, and security, ensuring responsible AI deployment.|
+| [Core Principles of AI Ethics](./core-principles-of-ai-ethics/README.md) | 10 min |Describe key ethical principles in AI, such as fairness, transparency, accountability, privacy, and security, ensuring responsible AI deployment.|
 | [Legal Frameworks and Compliance Requirements](./legal-frameworks-and-compliance-requirements/README.md) | 10 min | Examine AI-related legal issues, including liability, data privacy laws (GDPR, CCPA), intellectual property, and regulations governing cross-border data flows.|
 | [AI Governance Models](./ai-governance-models/README.md) | 10 min |Distinguish centralized and decentralized AI governance and analyze the roles of governments, corporations, and civil society in shaping AI regulations. |
 | [Ethical Challenges in AI Deployment](./ethical-challenges-in-ai-deployment/README.md) | 10 min | Describe critical ethical concerns, such as biased decision-making, risks of autonomous systems, AI surveillance, and privacy violations.|
