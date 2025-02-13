@@ -29,28 +29,3 @@ By the end of the course you will be able to:
 | [Global Approaches to AI Regulation](./global-approaches-to-ai-regulation/README.md) | 15 min | Critique global approaches to AI regulation and the laws around it.|
 | **Total content**                                 | 1 hr 30 min |                                     |
 
-## References
-
-📖 [Reference Materials](./references/README.md)
-
-## Internal
-
-### Prerequisites
-- None
-
-
-### Course landing pages
-
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-regulations-governance/canvas-landing-pages/fallback.html)
-
-### Resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
-
----
-
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
